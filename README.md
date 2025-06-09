@@ -3,4 +3,3 @@ Here are collected all the frida scripts (possibly) from the debug menu for diff
 
 (I don't know who to give the credits to, because I don't know the creators!!!)
 
-(if this repository is deleted, you can find these scripts in the telegram channel t.me/wileeearchive!!!)
